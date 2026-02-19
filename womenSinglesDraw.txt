@@ -1,0 +1,128 @@
+Ashleigh Barty,23,1,Australia
+Lesia Tsurenko,30,120,Ukraine
+Polona Hercog,29,48,Slovenia
+Rebecca Peterson,24,44,Sweden
+Aliaksandra Sasnovich,25,94,Belarus
+Greet Minnen,22,119,Belgium
+Bernarda Pera,25,65,United States
+Elena Rybakina,20,26,Kazakhstan
+Alison Riske,29,19,United States
+Yafan Wang,25,51,China
+Viktorija Golubic,27,76,Switzerland
+Lin Zhu,25,71,China
+Julia Goerges,31,39,Germany
+Viktoria Kuzmova,21,30,Slovakia
+Christina McHale,27,84,United States
+Petra Martic,19,14,Croatia
+Madison Keys,24,11,United States
+Daria Kasatkina,22,69,Russia
+Magda Linette,27,43,Poland
+Arantxa Rus,29,93,Netherlands
+Nao Hibino,25,103,Japan
+Shuai Peng,34,104,China
+Margarita Gasparyan,25,100,Russia
+Maria Sakkari,24,23,Greece
+Ekaterina Alexandrova,25,28,Russia
+Jil Teichmann,22,68,Switzerland
+Kaia Kanepi,34,101,Estonia
+Barbora Krejcikova,24,128,Czech Republic
+Paula Badosa,22,97,Spain
+Johanna Larsson,31,215,Sweden
+Katerina Siniakova,23,57,Czech Republic
+Petra Kvitova,29,8,Czech Republic
+Naomi Osaka,22,4,Japan
+Marie Bouzkova,21,59,Czech Republic
+Saisai Zheng,25,42,China
+Anna Kalinskaya,21,109,Russia
+Venus Williams,39,55,United States
+Cori Gauff,15,67,United States
+Sorana Cirstea,29,74,Romania
+Barbora Strycova,33,34,Czech Republic
+Sloane Stephens,26,27,United States
+Shuai Zhang,30,33,China
+Samantha Stosur,35,99,Australia
+Catherine McNally,18,116,United States
+Ann Li,19,142,United States
+Lizette Cabrera,22,121,Australia
+Martina Trevisan,26,154,Italy
+Sofia Kenin,21,15,United States
+Johanna Konta,28,13,United Kingdom
+Ons Jabeur,25,78,Tunisia
+Madison Brengle,29,95,United States
+Caroline Garcia,26,46,France
+Kristie Ahn,27,92,United States
+Caroline Wozniacki,29,36,Denmark
+Kaja Juvan,19,127,Slovenia
+Dayana Yastremska,19,21,Ukraine
+Qiang Wang,28,29,China
+Pauline Parmentier,33,133,France
+Fiona Ferro,22,63,France
+Alison VanUytvanck,25,47,Belgium
+Tamara Zidansek,22,70,Slovenia
+Na-Lae Han,27,79,South Korea
+Anastasia Potapova,18,90,Russia
+Serena Williams,38,9,United States
+Belinda Bencic,22,7,Switzerland
+Anna Schmiedlova,25,203,Slovakia
+Liudmila Samsonova,21,118,Russia
+Jelena Ostapenko,22,45,Latvia
+Sara SorribesTormo,23,91,Spain
+Veronika Kudermetova,22,40,Russia
+Astra Sharma,24,111,Australia
+Anett Kontaveit,24,31,Estonia
+Donna Vekic,23,20,Croatia
+Maria Sharapova,32,145,Russia
+Alize Cornet,29,61,France
+Monica Niculescu,32,129,Romania
+Iga Swiatek,18,56,Poland
+Timea Babos,26,88,Hungary
+Carla SuarezNavarro,31,54,Spain
+Aryna Sabalenka,21,12,Belarus
+Elise Mertens,24,17,Belgium
+Danka Kovinic,25,86,Montenegro
+Kristyna Pliskova,27,64,Czech Republic
+Heather Watson,27,75,United Kingdom
+Catherine Bellis,20,600,United States
+Tatjana Maria,32,87,Germany
+Kirsten Flipkens,34,81,Belgium
+Karolina Muchova,23,22,Czech Republic
+Danielle Collins,26,25,United States
+Vitalia Diatchenko,29,89,Russia
+Yulia Putintseva,25,38,Kazakhstan
+Su-Wei Hsieh,34,37,Chinese Taipei
+Harriet Dart,23,173,United Kingdom
+Misaki Doi,28,82,Japan
+Jennifer Brady,24,49,United States
+Simona Halep,28,3,Romania
+Elina Svitolina,25,5,Ukraine
+Katie Boulter,23,315,United Kingdom
+Lauren Davis,26,62,United States
+Leylah Fernandez,17,207,Canada
+Garbine Muguruza,26,32,Spain
+Shelby Rogers,27,155,United States
+Ajla Tomljanovic,26,52,Australia
+Anastasija Sevastova,29,33,Latvia
+Amanda Anisimova,18,24,United States
+Zarina Diyas,26,73,Kazakhstan
+Jasmine Paolini,24,96,Italy
+Anna Blinkova,21,58,Russia
+Kateryna Bondarenko,33,535,Ukraine
+Arina Rodionova,30,163,Australia
+Irina-Camelia Begu,29,105,Romania
+Kiki Bertens,28,10,Netherlands
+Marketa Vondrousova,20,16,Czech Republic
+Svetlana Kuznetsova,34,53,Russia
+Antonia Lottner,23,156,Germany
+Camila Giorgi,28,102,Italy
+Kateryna Kozlova,25,83,Ukraine
+Priscilla Hon,21,139,Australia
+Elisabetta Cocciaretto,18,175,Italy
+Angelique Kerber,32,18,Germany
+Anastasia Pavlyuchenkova,28,30,Russia
+Nina Stojanovic,23,85,Serbia
+Taylor Townsend,23,79,United States
+Jessica Pegula,25,66,United States
+Laura Siegemund,31,72,Germany
+CoCo Vandeweghe,28,226,United States
+Kristina Mladenovic,26,41,France
+Karolina Pliskova,27,2,Czech Republic
